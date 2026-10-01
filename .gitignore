@@ -1,0 +1,11 @@
+# Scripts-only repo: collected data, models and results stay out.
+*_data_*/
+training_data/
+holdout_batch/
+model_archive/
+script_backups/
+*.pkl
+*.csv
+*.log
+*.bak
+__pycache__/
