@@ -34,7 +34,7 @@ collect_holdout.sh + compare_holdout.py   ->  fresh-session hold-out test
 ## Requirements
 
 - OpenAirInterface 5G (RFsimulator, built with NTN support)
-- FlexRIC (Architectures 2 and 3)
+- FlexRIC (Architectures 2 )
 - Python 3 with pandas and scikit-learn
 - iperf3, Linux `tc` / `netem`, iptables
 
